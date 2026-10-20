@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Your Guide 🎓
 
-## Getting Started
+Your Guide is a student-focused web project designed to help students explore college options after the Andhra Pradesh EAMCET examination.
 
-First, run the development server:
+🌐 Live Website: https://your-guide-ten.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. AP Engineering EAMCET College Predictor
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Explore potential engineering college options based on your EAMCET rank and available cutoff information.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. Pharmacy College Predictor
 
-## Learn More
+Explore pharmacy college options using relevant admission cutoff information.
 
-To learn more about Next.js, take a look at the following resources:
+3. Branch Comparison Tool
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Compare engineering branches to help you understand your options and make more informed decisions.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🎯 Project Goal
 
-## Deploy on Vercel
+The goal of Your Guide is to make college exploration easier for students by bringing useful admission tools together in one place.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🛠️ Built With
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Next.js
+- React
+- TypeScript
+- Supabase integration setup
+
+💻 Try the Project
+
+Visit the live website:
+
+https://your-guide-ten.vercel.app/
+
+📂 Source Code
+
+Explore the project on GitHub:
+
+https://github.com/surendranandamuri520-cell/your-guide
+
+👨‍💻 About the Project
+
+I built Your Guide as a project to help students explore college options more conveniently. I plan to continue improving its features and usability based on feedback.
+
+💬 Feedback
+
+Try the tools and share your suggestions for improvement!
